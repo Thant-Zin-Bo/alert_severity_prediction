@@ -30,7 +30,7 @@ This project utilizes **Machine Learning** to automatically predict the severity
 * **Accuracy:** Achieved XX% accuracy on test data. (*Fill this in*)
 * **Impact:** The model successfully distinguishes between "CPU Spike" (ignorable noise) and "Service Down" (critical) based on context.
 
-## 🚀 How to Run
+
 ## 🚀 How to Run
 
 This project uses a sequential data pipeline to transform raw infrastructure logs into privacy-safe training data for the AI models.
